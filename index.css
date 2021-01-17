@@ -4,17 +4,6 @@
 	--main-color: rgb(235, 235, 235);
 }
 
-h2,
-h3,
-p,
-a,
-div,
-article,
-nav,
-section {
-	margin: 0;
-	padding: 0;
-}
 
 :root {
 	--menu-color: rgb(0, 0, 0);
